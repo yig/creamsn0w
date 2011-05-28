@@ -39,9 +39,11 @@ https://github.com/sorin-ionescu/creamsn0w
 --------------------------------------------------------------
 Many people wish to keep their iPhone 3G's on iOS 3.1.2 or
 3.1.3 because iOS 4 runs slowly.  The simplest unlock to use
-is blackra1n, and this fork of the code (<https://github.com/yig/creamsn0w>)
-updates that unlock from RC1 to RC3.  It has been tested with
-an iPhone 3G running iOS 3.1.2 and PwnageTool 3.1.4 <http://blog.iphone-dev.org/post/211802082/pwnage-pie>.
+is blackra1n, and this fork of the code
+(<https://github.com/yig/creamsn0w>) updates that unlock
+from RC1 to RC3.  It has been tested with an iPhone 3G
+running iOS 3.1.2 and
+PwnageTool 3.1.4 <http://blog.iphone-dev.org/post/211802082/pwnage-pie>.
 PwnageTool 3.1.5 <http://blog.iphone-dev.org/post/376648600/pre-game-show>
 may also work (and may even be required --- I have no idea --- if
 you are running iOS 3.1.3).
@@ -69,7 +71,10 @@ blackra1n - Geohot <http://blackra1n.com/>
 System Requirements
 --------------------------------------------------------------
 1) Apple Mac OS X
-2) iPhone Dev Team PwnageTool 3.1.4 <http://blog.iphone-dev.org/post/211802082/pwnage-pie> or 3.1.5 <http://blog.iphone-dev.org/post/376648600/pre-game-show>
+2) iPhone Dev Team PwnageTool
+   3.1.4 <http://blog.iphone-dev.org/post/211802082/pwnage-pie>
+   or
+   3.1.5 <http://blog.iphone-dev.org/post/376648600/pre-game-show>
 
 --------------------------------------------------------------
 PwnageTool Installation Instructions
